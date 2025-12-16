@@ -93,9 +93,9 @@ MIT License
 
 ## Author
 
-GitHub: https://github.com/your-handle  
-Public contact (email): your-name@proton.me  
-Public contact (X): https://x.com/your-handle  
+GitHub: https://github.com/drearyhi  
+Public contact (email): hisses.dreary02@icloud.com  
+Public contact (X): https://x.com/chrisdrylie4  
 
 ## Testnet Deployment (Base Sepolia)
 
@@ -105,24 +105,18 @@ Network: Base Sepolia
 chainId (decimal): 84532  
 Explorer: https://sepolia.basescan.org  
 
-Contract #1 address:  
-your_adress  
+Contract "structs" address:  
+0x2fc184f0bae2e74506c90f3de5f69e18ee0bd0f8  
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
+- https://sepolia.basescan.org/address/0x2fc184f0bae2e74506c90f3de5f69e18ee0bd0f8  
+- https://sepolia.basescan.org/0x2fc184f0bae2e74506c90f3de5f69e18ee0bd0f8/0#code  
 
-Contract #2 address (optional):  
-your_adress  
-
-Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
-
-Contract #3 address (optional):  
-your_adress  
+Contract "Inheritance" address (optional):  
+0x67efcff099b4eb091408c01841d0d9239bb312f9  
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code 
+- https://sepolia.basescan.org/address/0x67efcff099b4eb091408c01841d0d9239bb312f9  
+- https://sepolia.basescan.org/0x67efcff099b4eb091408c01841d0d9239bb312f9/0#code  
+
 These testnet deployments provide a controlled environment for validating Base tooling, account abstraction flows, and read-only onchain interactions prior to Base Mainnet usage.
